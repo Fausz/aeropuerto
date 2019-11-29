@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.017" errors="0" skipped="0" tests="1" name="com.mycompany.aeropuerto.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="F:\APP\jdk1.7.0\jre\bin"/>
+    <property name="java.vm.version" value="21.0-b17"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto"/>
+    <property name="java.runtime.version" value="1.7.0-b147"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto"/>
+    <property name="java.endorsed.dirs" value="F:\APP\jdk1.7.0\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="surefire.real.class.path" value="F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\surefire\surefirebooter7223993822829965109.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\F\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows NT (unknown)"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="F:\APP\jdk1.7.0\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\F\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="surefire.test.class.path" value="F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\test-classes;F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\classes;C:\Users\F\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.2"/>
+    <property name="user.home" value="C:\Users\F"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="F"/>
+    <property name="java.class.path" value="F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\test-classes;F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\classes;C:\Users\F\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="F:\APP\jdk1.7.0\jre"/>
+    <property name="sun.java.command" value="F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\surefire\surefirebooter7223993822829965109.jar F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\surefire\surefire8663469595484725135tmp F:\APP\NetBeans 7.0.1\NetBeansProjects\aeropuerto\target\surefire\surefire8916206136043451378tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="es"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.7.0"/>
+    <property name="java.ext.dirs" value="F:\APP\jdk1.7.0\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="F:\APP\jdk1.7.0\jre\lib\resources.jar;F:\APP\jdk1.7.0\jre\lib\rt.jar;F:\APP\jdk1.7.0\jre\lib\sunrsasign.jar;F:\APP\jdk1.7.0\jre\lib\jsse.jar;F:\APP\jdk1.7.0\jre\lib\jce.jar;F:\APP\jdk1.7.0\jre\lib\charsets.jar;F:\APP\jdk1.7.0\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="C:\Users\F\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="0" classname="com.mycompany.aeropuerto.AppTest" name="testApp"/>
+</testsuite>
